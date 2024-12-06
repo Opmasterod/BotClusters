@@ -1,66 +1,33 @@
 {   
     "bot1": {
-        "source": "repo_link",
+        "source": "https://github.com/Opmasterod/TGVid-Comp.git",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7831835699:AAGyg-LBK7efLotnXaGPestHbVAuF7Zo75k"
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot2": {
-        "source": "repo_link",
+        "source": "https://github.com/Opmasterod/TGVid-Comp.git",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "8127063024:AAH1Cs8atxlAlbRlpunJUJSn4LVLG6FBxzI"
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot3": {
-        "source": "repo_link",
+        "source": "https://github.com/Opmasterod/TGVid-Comp.git",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7549640350:AAFEBNPnbWM79DaMNuscaMEUsg4Nw2Rj6wg"
         },
-        "run": "run.sh"
+        "run": "bot.py"
     },
     "bot4": {
-        "source": "repo_link",
+        "source": "https://github.com/Opmasterod/TGVid-Comp.git",
         "branch": "master",
         "env": {
-            "TOKEN": ""
+            "BOT_TOKEN": "7821208337:AAG12bK7XkDuSFIgXP-2FypgjK9Y7Vq2ahw"
         },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "bot.py"
     }
-}
